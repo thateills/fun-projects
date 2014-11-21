@@ -1,4 +1,7 @@
 fun-projects
 ============
 
-Storage for misc. random projects, practice, etc.
+Hi! I'm Thatcher.
+This is storage for misc. projects, practice etc.
+
+
